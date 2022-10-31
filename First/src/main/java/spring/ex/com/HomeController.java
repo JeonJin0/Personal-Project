@@ -1,4 +1,4 @@
-package com.spring.ex;
+package spring.ex.com;
 
 import java.text.DateFormat;
 import java.util.Date;
